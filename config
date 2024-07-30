@@ -1,0 +1,10 @@
+#for the aws CLI :
+
+#aws configure
+#aws iam get-user --user-name galiSeregin
+# aws ec2 describe-images --image-ids ami-0427090fd1714168b
+
+
+[default]
+region =us-east-1
+output = table

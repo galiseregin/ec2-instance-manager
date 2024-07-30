@@ -1,0 +1,5 @@
+instance-type: t2.micro
+key-name: gali_seregin
+image-id: ami-0427090fd1714168b
+security-group: sg-01a120bbb1872f271
+subnet-id: subnet-0705a118348da2401
